@@ -10,7 +10,7 @@ Feel free to contribute anything you feel others would find useful (ref. [CONTRI
 
 | Tool Name           | JavaScript | Python |
 |---------------------|:----------:|:------:|
-| [Roll Number Parser](#-roll-number-parser) | ✅ | ✅ |
+| [Roll Number Parser](#roll-number-parser) | ✅ | ✅ |
 
 ---
 
@@ -49,7 +49,7 @@ Includes:
 - Start Year
 - Expected Graduation Year
 - Roll Call Number
-- And also validates the roll number format!
+- Validates the roll number format
 
 #### JavaScript Usage
 
